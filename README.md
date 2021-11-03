@@ -33,4 +33,4 @@ The easiest way to deploy this Bot
 ## [Master X Bot's Updates](https://t.me/Master_X_Updates) 💖
 
 ## Supported 
-By ~ [Psycho Boys](https://t.me/Psycho_Bots)
+By ~ [Psycho Bots](https://t.me/Psycho_Bots)
