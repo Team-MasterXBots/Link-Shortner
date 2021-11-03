@@ -1,5 +1,5 @@
 # Link-Shortner!
-[![👀](https://telegra.ph/file/b0080e1a456012f620a9e.jpg)](http://t.me/Link_ShortnerROBOT) 
+[![👀](https://telegra.ph/file/b0080e1a456012f620a9e.jpg)](http://t.me/MasterXIMAGETOPDFBot) 
 
 
 # This is BoT to Convert big links  into small links with many domains
@@ -18,7 +18,7 @@ The easiest way to deploy this Bot
 <a href="https://telegram.me/Best_Friends15" target="_blank"><img src="https://img.shields.io/badge/Join-Support-brown.svg?style=for-the-badge&logo=Telegram"></a>
 
 # BOT AT TELEGRAM 
-<a href="https://t.me/image2pdfRoBot"> <img src="https://img.shields.io/badge/Telegram_BOT-Link_Shortner-black?style=social&logo=telegram" alt="DEVELOPER" /></a>
+<a href="https://t.me/MasterXIMAGETOPDFBot"> <img src="https://img.shields.io/badge/Telegram_BOT-Link_Shortner-black?style=social&logo=telegram" alt="DEVELOPER" /></a>
 
  <br>
 
