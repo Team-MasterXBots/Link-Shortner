@@ -8,13 +8,13 @@ I am a link shortner telegram bot.
 
 » I can short any type of link «
 
-Made by @Psycho_Bots
+Made by @Master_X_Updates
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Updates Channel📡', url='https://telegram.me/Psycho_Bots'),
-        InlineKeyboardButton('Report Bugs🐞', url="https://t.me/Psycho_Bots")
+        InlineKeyboardButton('Updates Channel📡', url='https://telegram.me/Master_X_Updates'),
+        InlineKeyboardButton('Report Bugs🐞', url="https://t.me/Best_Friends15")
         ]]
     )
 
